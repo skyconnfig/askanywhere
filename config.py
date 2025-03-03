@@ -8,7 +8,7 @@ BASE_URL = ''
 
 def create_default_config(config_file):
     default_config = """MODEL_NAME = deepseek-chat
-API_KEY = your_api_key_here
+API_KEY = sk-08090b8782904fc09cee9da664a187c2
 BASE_URL = https://api.deepseek.com
 
 # deepseek免费送500万token，申请地址：https://platform.deepseek.com/api_keys 直接创建黏贴进来就可以了

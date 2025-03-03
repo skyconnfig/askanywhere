@@ -1,0 +1,9 @@
+MODEL_NAME = deepseek-chat
+API_KEY = sk-08090b8782904fc09cee9da664a187c2
+BASE_URL = https://api.deepseek.com
+
+# deepseek免费送500万token，申请地址：https://platform.deepseek.com/api_keys 直接创建黏贴进来就可以了
+# 如果是openai，需要替换为openai的API_KEY及相关参数
+# MODEL_NAME = "gpt-4o"
+# API_KEY = "你的apikey"
+# BASE_URL = "https://api.openai.com/v1"
